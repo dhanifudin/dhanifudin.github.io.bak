@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+!.gitignore
+!favicon.ico
+!index.html
+!inline.bundle.js
+!main.bundle.js
+!polyfills.bundle.js
+!styles.bundle.css
